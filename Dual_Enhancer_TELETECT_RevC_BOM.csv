@@ -5,7 +5,7 @@
 4,1,D1,Comchip Technology ,1N4001-G ,Mouser,750-1N4001-G ,"Rectifiers VR=50V, IO=1A",-0,DO-41,Through Hole,PCB Top
 5,1,FB1,Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-0,-0,Through Hole,PCB Top
 6,1,J1,-0,-0,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-0,-0,Through Hole,PCB Top
-7,1,"J2, J3, J4, J5",Wenzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-0,-0,Through Hole,PCB Top / Frontpanel
+7,4,"J2, J3, J4, J5",Wenzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-0,-0,Through Hole,PCB Top / Frontpanel
 8,4,"Q1, Q3, Q4, Q6",ON Semiconductor / Fairchild ,2N3904BU ,Mouser,512-2N3904BU ,Bipolar Transistors - BJT NPN Transistor General Purpose ,-0,TO-92,Through Hole,PCB Top
 9,2,"Q2, Q5",ON Semiconductor / Fairchild ,2N3906BU ,Mouser,512-2N3906BU ,Bipolar Transistors - BJT PNP Transistor General Purpose ,-0,TO-91,Through Hole,PCB Top
 10,2,"R2, R15",-0,-0,Thonk,Mech_Pot_Alpha,Right Angle B10K Alpha 9mm Potentiometer,B10K,-0,Through Hole,PCB Top / Frontpanel
